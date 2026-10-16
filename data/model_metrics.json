@@ -1,0 +1,8 @@
+{
+  "mae": 9.49,
+  "rmse": 13.1,
+  "clarke_zone_ab_pct": 98.1,
+  "roc_auc": 0.97,
+  "f1_score": 0.907,
+  "test_sample_count": 2320
+}
