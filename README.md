@@ -11,6 +11,17 @@
 
 ---
 
+## About The Project
+
+**GlycoTwin-India** is a clinical-grade physiological digital twin platform engineered specifically to address India's escalating Type 2 Diabetes epidemic (>101 million patients as per ICMR-INDIAB). By synergistically fusing static Electronic Health Records (EHR) with high-frequency dynamic wearable IoT telemetry (Continuous Glucose Monitoring at 5-minute sampling, Heart Rate, Autonomic HRV, and physical activity cadence), GlycoTwin-India models the unique biophysical nuances of the **Asian Indian Phenotype** ("Thin-Fat" phenotype characterized by elevated visceral adiposity, early beta-cell exhaustion, and high carbohydrate sensitivity).
+
+The platform bridges real-time clinical telemetry with predictive simulation:
+* **2-Hour Predictive Early Warning:** Forecasts continuous glycemic trajectories and flags impending acute hyperglycemic spikes ($\ge 180$ mg/dL) and nocturnal hypoglycemia ($\le 70$ mg/dL) two hours in advance, achieving **98.1% Clarke Error Grid Zone A+B accuracy** and an **ROC-AUC of 0.970**.
+* **In Silico Counterfactual "What-If" Sandbox:** Empowers endocrinologists and diabetologists to simulate the therapeutic impact of meal carbohydrate modulation, post-prandial ambulation, and oral agent titration (SGLT2i / DPP4i) directly on the virtual patient before prescribing them in the real world.
+* **Strict Privacy Governance:** Built adhering strictly to the **Digital Personal Data Protection Act (DPDP Act 2023)** and HIPAA synthetic sandbox guidelines, mapping to Ayushman Bharat Digital Mission (ABDM) and HL7 FHIR interoperability standards.
+
+---
+
 ## 1. Team & Institutional Details
 
 * **Team Name:** GlycoTwin Innovation Labs *(Modify with your official registered Team Name)*
