@@ -183,8 +183,8 @@ See the [`LICENSE`](LICENSE) file for complete licensing terms. All synthetic da
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/Shamoel005/GlycoTwin_HappiestHealth.git
-cd GlycoTwin_HappiestHealth
+git clone https://github.com/Shamoel005/GlycoTwin-India.git
+cd GlycoTwin-India
 ```
 
 ### Step 2: Install Dependencies
