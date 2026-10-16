@@ -24,14 +24,11 @@ The platform bridges real-time clinical telemetry with predictive simulation:
 
 ## 1. Team & Institutional Details
 
-* **Team Name:** GlycoTwin Innovation Labs *(Modify with your official registered Team Name)*
-* **College / University:** [Insert University / Institute Name], Bengaluru / India
-* **Incubator Affiliation:** [Insert University Incubator / Innovation Cell Name]
+* **Team Name:** GlycoTwin Innovation Labs
+* **College / University:** National Institute of Technology Patna (NIT Patna), Bihar, India
+* **Incubator Affiliation:** Incubation Centre, National Institute of Technology Patna (IC NIT Patna)
 * **Team Members:**
-  * **Team Leader:** Md Shamoel Farooqui | Email: [farooquishamoel@gmail.com](mailto:farooquishamoel@gmail.com) | GitHub: [@Shamoel005](https://github.com/Shamoel005)
-  * **Team Member 2 (Clinical & Biostatistics):** [Member 2 Name] | [member2@example.edu.in](mailto:member2@example.edu.in)
-  * **Team Member 3 (AI/ML & Systems Engineering):** [Member 3 Name] | [member3@example.edu.in](mailto:member3@example.edu.in)
-  * **Team Member 4 (Bio-Modeling & UI/UX):** [Member 4 Name] | [member4@example.edu.in](mailto:member4@example.edu.in)
+  * **Team Leader:** Md Shamoel Farooqui | Email: [farooquishamoel@gmail.com](mailto:farooquishamoel@gmail.com) | GitHub: [@Shamoel005](https://github.com/Shamoel005) | National Institute of Technology Patna
 
 ---
 
