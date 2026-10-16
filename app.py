@@ -48,12 +48,26 @@ def load_or_init_system():
         telemetry_df = pd.read_csv(telemetry_path)
         
     predictor = MultimodalGlycemicPredictor()
+    loaded = False
     if os.path.exists(model_path):
-        predictor.load(model_path)
-    else:
-        features_df = extract_multimodal_features(ehr_df, telemetry_df)
+        try:
+            predictor.load(model_path)
+            loaded = True
+        except Exception:
+            loaded = False
+            
+    if not loaded:
+        feat_path = os.path.join(data_dir, "extracted_features.csv")
+        if os.path.exists(feat_path):
+            features_df = pd.read_csv(feat_path)
+        else:
+            features_df = extract_multimodal_features(ehr_df, telemetry_df)
         predictor.fit(features_df)
-        predictor.save(model_path)
+        try:
+            predictor.save(model_path)
+        except Exception:
+            pass
+
         
     if os.path.exists(profiles_path):
         with open(profiles_path, "r") as f:
