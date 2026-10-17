@@ -152,9 +152,10 @@ Model performance was evaluated on a held-out test cohort across 5-day continuou
 
 ## 6. Video Presentation & Demonstration
 
-* **Video Duration:** 20 Minutes  
-* **Video Format:** Unlisted YouTube Video / Presentation Walkthrough  
-* **Video Link:** `https://youtu.be/UNLISTED_VIDEO_LINK_PLACEHOLDER` *(Replace with your unlisted YouTube link)*  
+* **Video Duration:** ~20 Minutes  
+* **Video Format:** Unlisted YouTube Video / Presentation & Prototype Walkthrough  
+* **Direct YouTube Video Link:** [https://youtu.be/qERtTmQGp20](https://youtu.be/qERtTmQGp20?si=BKLZTJbyW9vxeSNY)  
+* **Watch Video:** [![Watch Demo Video](https://img.shields.io/badge/YouTube-Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/qERtTmQGp20?si=BKLZTJbyW9vxeSNY)
 * **Complete Word-for-Word Script:** Available in [`docs/VIDEO_SCRIPT.md`](docs/VIDEO_SCRIPT.md) with exact speaker timings, slide cues, and live UI demo instructions.
 
 ---
